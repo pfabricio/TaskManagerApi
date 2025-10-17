@@ -106,7 +106,7 @@ dotnet ef database update --project ./src/TaskManager.Infrastructure --startup-p
 | 4  | Ana Souza        | ana@empresa.com       | Colaborador    | ana.souza        | senha123  |
 | 5  | Fernanda Torres  | fernanda@empresa.com  | Gerente        | fernanda.torres  | senha123  |
 
-> 🔑 Esses usuários são criados automaticamente ao inicializar o banco (seed).
+> 🔑 Esses usuários são criados automaticamente ao inicializar ao aplicar o migration (seed).
 
 ---
 
